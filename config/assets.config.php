@@ -4,15 +4,15 @@ namespace Popov\ZfcLayout;
 return [
     //'assetic_configuration' => [
     // Use on development environment
-        'debug' => false,
-        'buildOnRequest' => false,
+        //'debug' => false,
+        //'buildOnRequest' => false,
 
         // This is optional fla// This is optional flag, by default set to `true`.
         // In debug mode allow you to combine all assets to one file.
         // 'combine' => false,
         // this is specific to this project
-        'webPath' => realpath('public') . '/assets',
-        'basePath' => 'assets',
+        //'webPath' => realpath('public') . '/assets',
+        //'basePath' => 'assets',
 
         'default' => [
             'assets' => [
